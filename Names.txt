@@ -1,7 +1,8 @@
-Tanweer
-Rahim
-Rozmin
-Jazib
-Ahmed
-Danish
-Aniq
+Tanweer 42201-3173251-7
+Rahim 56789765456789
+Rozmin 56786546789
+Jazib 3456786543456
+Ahmed 34567876543456
+Danish 456785434567
+Aniq 34567886543456
+Rehman 345643456
